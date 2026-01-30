@@ -21,7 +21,7 @@ The project combines exploratory data analysis, statistical inference, and super
 
 ## 📓 Notebook  
 The full analysis is available in the Jupyter Notebook:  
-[Open the notebook](ReCell_Linear_Regression.ipynb)
+[Open the notebook](ReCell_Project_Learner_Notebook_FullCode_EPaniagua.ipynb)
 
 ---
 
